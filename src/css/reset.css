@@ -1,0 +1,14 @@
+*{
+    /* sem margin entre os elementos*/
+    /*sem espaçamento interno nos elementos*/
+    /*sem calculo de borda nos elementos*/
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+ul{
+    /* retira a marcação de bolinha antes da lista*/
+    list-style: none;
+
+}
